@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Technician
 ---------------
 
-I am recently going through a career change from health to Tech. I am currently learning a level 3 Data Technician Bootcamp with JUSTIT. RGN| MSC adult Nursing | BSC Health & Human Sciences | Skilled in Acute & Community Health | Passionate about Public Health, Tech & Data Analysis | Experienced in Healthcare, Team Leadership, Health Data Management & Global Medical Assistance
+I am recently going through a career change from health to Tech. I am currently learning a level 3 Data Technician Bootcamp with JUSTIT. RGN, MSC adult Nursing. Skilled in Acute health, Gotrex and AWS client management. Passionate about Public Health, Tech & Data Analysis. Experienced in Healthcare, Team Leadership, Health Data Management & Global Medical Assistance
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [gicelina02@gmail.com](mailto:gicelina02@gmail.com)
