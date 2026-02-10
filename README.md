@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Celina Gitau
 =====================================================================================================================================
 
-Data Technician
----------------
+Data Analyst
+------------
 
 I am recently going through a career change from health to Tech. I am currently learning a level 3 Data Technician Bootcamp with JUSTIT. RGN, MSC adult Nursing. Skilled in Acute health, Gotrex and AWS client management. Passionate about Public Health, Tech & Data Analysis. Experienced in Healthcare, Team Leadership, Health Data Management & Global Medical Assistance
 
